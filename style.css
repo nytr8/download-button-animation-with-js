@@ -28,6 +28,11 @@ main .container {
   gap: 10px;
   width: 400px;
 }
+main .container h4 {
+  font-size: 0.8rem;
+  font-weight: 300;
+  text-align: center;
+}
 main .container h3 {
   text-align: center;
   font-size: 1rem;
@@ -55,9 +60,9 @@ main .container .bottom h2 {
   font-size: 1.5rem;
   font-weight: 300;
 }
-main .container .bottom button {
+main .container .bottom div button {
   border: none;
   background-color: lightgreen;
-  padding: 0 1rem;
+  padding: 0.4rem 1rem;
   border-radius: 20px;
 }/*# sourceMappingURL=style.css.map */
